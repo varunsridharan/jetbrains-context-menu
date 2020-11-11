@@ -33,7 +33,7 @@ If you would like to help, please take a look at the list of [issues](https://gi
 
 
 ## 📜  License & Conduct
-- [**GNU General Public License v3.0**](https://github.com/varunsridharan/jetbrains-context-menu/blob/main/LICENSE) © [Varun Sridharan](website)
+- [**MIT License**](https://github.com/varunsridharan/jetbrains-context-menu/blob/main/LICENSE) © [Varun Sridharan](website)
 - [Code of Conduct](https://github.com/varunsridharan/.github/blob/master/CODE_OF_CONDUCT.md)
 
 
@@ -80,5 +80,6 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 </p>
 
 ---
+
 
 <!-- END common-footer.mustache -->
